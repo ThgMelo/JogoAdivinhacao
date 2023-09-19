@@ -1,4 +1,7 @@
-# Adivinhação - Python
+# Jogos - Python
 ![Python](https://img.shields.io/badge/python-3.11.5-blue)      
 
-Meu primeiro projeto na linguagem python
+## Adivinhação
+Tente adivinhar o número aleatório!
+
+## Força
