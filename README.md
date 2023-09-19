@@ -7,4 +7,4 @@ Primeiros projetos de introdução a linguagem python.
 ## Adivinhação
 Tente adivinhar o número aleatório!
 
-## Força
+## Forca
