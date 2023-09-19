@@ -8,3 +8,4 @@ Primeiros projetos de introdução a linguagem python.
 Tente adivinhar o número aleatório!
 
 ## Forca
+Tente adivinhar cada letra da palavra secreta antes de se enforcar!
