@@ -1,4 +1,4 @@
 banana
 melancia
 moranga
-maça
+ABACAXI
