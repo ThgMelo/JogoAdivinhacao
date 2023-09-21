@@ -3,8 +3,8 @@ def jogar():
     print('Bem vindo ao jogo de Forca!')
     print('**************************\n')
 
-    palavra_secreta = "banana".upper()
-    letras_acertadas = ["_","_","_","_","_","_",]
+    palavra_secreta = 'banana'.upper()
+    letras_acertadas = ["_" for letra in palavra_secreta] # List Comprehension
 
     enforcou = False
     acertou = False
@@ -25,6 +25,7 @@ def jogar():
                 index += 1
         else:
             erros += 1
+            print(f'Ops, você errou! Faltam {6-erros} tentativas!')
         
         enforcou = erros == 6
         acertou = "_" not in letras_acertadas
